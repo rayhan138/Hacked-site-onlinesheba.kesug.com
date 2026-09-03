@@ -1,5 +1,7 @@
 # Hacked-site-onlinesheba.kesug.com
 
+ This is an illegal website who sells Public Data for Money.
+
 ## Introduction
 
 This repository contains the complete findings from a penetration test conducted on **onlinesheba.kesug.com** as part of a Cyber Security Hackathon. The website offers NID (National Identity Card) related services including PDF downloads, signed copies, birth registration, and more.
