@@ -1,6 +1,6 @@
 # Hacked-site-onlinesheba.kesug.com
 
- This is an illegal website who sells Public Data for Money.
+ This is an illegal website sells Public Data for Money.
 
 ## Introduction
 
